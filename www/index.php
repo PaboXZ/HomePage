@@ -30,36 +30,40 @@
                 <div class="page-tile-ico"><img src=""/></div>
                 <figcaption class="page-tile-name">Name</figcaption>
             </figure>
+            <div class="tile-right-button" id="description-request-right-1"><i class="icon-right-open"></i></div>
             <div class="expand-button" id="expand-button-1"><i class="icon-down-open"></i></div>
 
             <figure class="page-tile">
                 <div class="page-tile-ico"><img src=""/></div>
                 <figcaption class="page-tile-name">Name</figcaption>
             </figure>
+            <div class="tile-right-button" id="description-request-right-2"><i class="icon-right-open"></i></div>
             <div class="expand-button" id="expand-button-2"><i class="icon-down-open"></i></div>
 
             <figure class="page-tile">
                 <div class="page-tile-ico"><img src=""/></div>
                 <figcaption class="page-tile-name">Name</figcaption>
             </figure>
+            <div class="tile-right-button" id="description-request-right-3"><i class="icon-right-open"></i></div>
             <div class="expand-button" id="expand-button-3"><i class="icon-down-open"></i></div>
 
             <figure class="page-tile">
                 <div class="page-tile-ico"><img src=""/></div>
                 <figcaption class="page-tile-name">Name</figcaption>
             </figure>
+            <div class="tile-right-button" id="description-request-right-4"><i class="icon-right-open"></i></div>
             <div class="expand-button" id="expand-button-4"><i class="icon-down-open"></i></div>
 
             <figure class="page-tile">
                 <div class="page-tile-ico"><img src=""/></div>
                 <figcaption class="page-tile-name">Name</figcaption>
             </figure>
+            <div class="tile-right-button" id="description-request-right-5"><i class="icon-right-open"></i></div>
             <div class="expand-button" id="expand-button-5"><i class="icon-down-open"></i></div>
 
         </div>
 
-        <article>
-            y
+        <article id="side-content">
         </article>
     </div>
 </main>
